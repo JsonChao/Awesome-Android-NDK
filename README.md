@@ -5,9 +5,6 @@
 
 > 深入解码Android NDK技术、扎实C、C++、Shell、Linux基础，掌握JNI语法实现，熟悉Cmake、MakeFile的编译底层原理，全面解密顶级公司核心技术，搭乘着音视频与图像处理的5G快车，成长为最具核心竞争力的高级人才。
 
-## 前言
-
-
 ## Contents
 
 ### [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
