@@ -10,15 +10,16 @@
 ### [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C程序设计语言》**
-- **网易工程师带你突破Android技术瓶颈之NDK开发模块-C C++基础篇**
-- **动脑学院高级Android之NDK开发模块-C C++部分**
+- **网易工程师带你突破Android技术瓶颈之NDK开发模块-C 基础篇**
+- **动脑学院高级Android之NDK开发模块-C 部分**
 
 
 ### [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C++ Primer Plus》**
-- **网易工程师带你突破Android技术瓶颈之NDK开发模块-C C++基础篇**
-- **动脑学院高级Android之NDK开发模块-C C++部分**
+- **网易工程师带你突破Android技术瓶颈之NDK开发模块-C++基础篇**
+- **动脑学院高级Android之NDK开发模块-C++部分**
+
 - 《Effective C++》
 - 《More Effective C++》
 - 《深度探索C++对象模型》
