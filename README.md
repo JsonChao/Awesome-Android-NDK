@@ -10,6 +10,7 @@
 ### [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C程序设计语言》**
+
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C 基础篇**
 - **动脑学院高级Android之NDK开发模块-C 部分**
 
@@ -17,6 +18,7 @@
 ### [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C++ Primer Plus》**
+
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C++基础篇**
 - **动脑学院高级Android之NDK开发模块-C++部分**
 
@@ -28,9 +30,11 @@
 ### [JNI/NDK]()
 
 - **《Android进阶解密》（已完成，待记录）**
+
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-编译原理与语法详解**
 - **动脑学院高级Android之NDK开发模块-JNI部分**
 - **动脑学院高级Android之NDK开发模块-Linux基础部分**
+
 - **《Android C++ 高级编程——使用NDK》**
 
 
@@ -38,6 +42,7 @@
 
 - **阿里云andfix热修复**
 - **sophix原理剖析**
+
 - **NDK高效实现gif图播放**
 
 
