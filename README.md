@@ -1,7 +1,8 @@
 # Awesome-Android-NDK
 全面深入地掌握NDK技术，成为下一波5G时代的浪潮儿~
-
-
+<div align="center">
+<img src="https://github.com/JsonChao/Awesome-Android-NDK/blob/master/ScreenShots/NDK%E5%BC%80%E5%8F%91%E9%AB%98%E6%89%8B%E4%B9%8B%E8%B7%AF.png">
+</div>
 
 > 深入解码Android NDK技术、扎实C、C++、Shell、Linux基础，掌握JNI语法实现，熟悉Cmake、MakeFile的编译底层原理，全面解密顶级公司核心技术，搭乘着音视频与图像处理的5G快车，成长为最具核心竞争力的高级人才。
 
