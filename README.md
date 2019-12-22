@@ -8,60 +8,109 @@
 
 ## Contents
 
-### [C](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)（进行中~）
+### C（进行中~）
+
+> [C基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C程序设计语言》**
-
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C 基础篇**
 - **动脑学院高级Android之NDK开发模块-C 部分**
 
+> C进阶
 
-### [C++](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+- **《C陷阱与缺陷》**
+- **《C专家编程》**
+
+
+### C++
+
+> [C++基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md))
 
 - **《C++ Primer Plus》**
 
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C++基础篇**
 - **动脑学院高级Android之NDK开发模块-C++部分**
 
+> C++进阶
+
 - 《Effective C++》
 - 《More Effective C++》
+
 - 《深度探索C++对象模型》
 
 
-### [JNI/NDK]()
+### NDK基础
 
-- **《Android进阶解密》（已完成，待记录）**
+> JNI
 
-- **网易工程师带你突破Android技术瓶颈之NDK开发模块-编译原理与语法详解**
+- **《Android进阶解密》第九章 JNI原理(已完成，待记录）**
 - **动脑学院高级Android之NDK开发模块-JNI部分**
-- **动脑学院高级Android之NDK开发模块-Linux基础部分**
 
 - **《Android C++ 高级编程——使用NDK》**
 
 
+> 编译原理与语法
+
+- **网易工程师带你突破Android技术瓶颈之NDK开发模块-编译原理与语法详解**
+
+- **《Android C++ 高级编程——使用NDK》**
+
+> Linux基础
+
+- **网易工程师带你突破Android技术瓶颈之NDK开发模块-Linux基础部分**
+- **动脑学院高级Android之NDK开发模块-Linux基础部分**
+
+
 ### 顶级公司核心技术全解密
+
+> 热修复
 
 - **阿里云andfix热修复**
 - **sophix原理剖析**
+
+> Gif图实现
 
 - **NDK高效实现gif图播放**
 
 
 ### Android音视频
 
+> 音视频基础
+
 - **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
+
+> 全面掌握音视频处理技术FFMPEG
 
 - **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（已完成，待记录）**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-网易视频云剖析**
-- **动脑学院高级Android之NDK开发模块-音视频部分**
+- **动脑学院高级Android之NDK开发模块-音视频部分之FFMPEG**
+
 - **《Android音视频开发》**
+
+> 全面掌握直播处理技术WebRTC
+
 - **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
+- **动脑学院高级Android之NDK开发模块-音视频部分之WebRTC**
+
+- **《Android音视频开发》**
 
 
 ### 图像处理技术
 
+> 老牌图像API OpenGL
+
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-使用OpenGl进行人脸美化实战**
 
+> 新生代图像API vulkan
+
+- **[awesome-vulkan](https://github.com/vinjn/awesome-vulkan)**
+
+
+### 计算机视觉处理技术
+
+> OpenCV
+
+- **[超详细的OpenCV入门教程](http://c.biancheng.net/opencv/)**
 
 
 ## 赞赏
