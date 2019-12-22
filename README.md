@@ -8,7 +8,7 @@
 
 ## Contents
 
-### C（进行中~）
+### 一、C（进行中~）
 
 > [C基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
@@ -22,9 +22,9 @@
 - **《C专家编程》**
 
 
-### C++
+### 二、C++
 
-> [C++基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md))
+> [C++基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%2B%2B%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C++ Primer Plus》**
 
@@ -39,7 +39,7 @@
 - 《深度探索C++对象模型》
 
 
-### NDK基础
+### 三、NDK基础
 
 > JNI
 
@@ -61,7 +61,7 @@
 - **动脑学院高级Android之NDK开发模块-Linux基础部分**
 
 
-### 顶级公司核心技术全解密
+### 四、顶级公司核心技术全解密
 
 > 热修复
 
@@ -73,7 +73,7 @@
 - **NDK高效实现gif图播放**
 
 
-### Android音视频
+### 五、Android音视频
 
 > 音视频基础
 
@@ -95,7 +95,7 @@
 - **《Android音视频开发》**
 
 
-### 图像处理技术
+### 六、图像处理技术
 
 > 老牌图像API OpenGL
 
@@ -106,7 +106,7 @@
 - **[awesome-vulkan](https://github.com/vinjn/awesome-vulkan)**
 
 
-### 计算机视觉处理技术
+### 七、计算机视觉处理技术
 
 > OpenCV
 
