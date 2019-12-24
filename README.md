@@ -33,6 +33,8 @@
 
 > C++进阶
 
+- 极客时间之《现代C++实战30讲》
+
 - 《Effective C++》
 - 《More Effective C++》
 
