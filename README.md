@@ -13,6 +13,7 @@
 > [C基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C程序设计语言》**
+- **菜鸟窝资深工程师之BAT最常用的C技术**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C 基础篇**
 - **动脑学院高级Android之NDK开发模块-C 部分**
 
@@ -28,6 +29,7 @@
 
 - **《C++ Primer Plus》**
 
+- **菜鸟窝资深工程师之BAT最常用的C++技术**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C++基础篇**
 - **动脑学院高级Android之NDK开发模块-C++部分**
 
@@ -46,6 +48,7 @@
 > JNI
 
 - **《Android进阶解密》第九章 JNI原理(已完成，待记录）**
+- **菜鸟窝资深工程师之BAT最常用的JNI基础实战**
 - **动脑学院高级Android之NDK开发模块-JNI部分**
 
 - **《Android C++ 高级编程——使用NDK》**
@@ -59,6 +62,7 @@
 
 > Linux基础
 
+- **菜鸟窝资深工程师之Linux编程实战**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-Linux基础部分**
 - **动脑学院高级Android之NDK开发模块-Linux基础部分**
 
@@ -83,6 +87,8 @@
 
 > 全面掌握音视频处理技术FFMPEG
 
+- **菜鸟窝资深工程师之音视频、图像处理技术**
+- **菜鸟窝资深工程师之开源库FFMPEG学习**
 - **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（已完成，待记录）**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-网易视频云剖析**
 - **动脑学院高级Android之NDK开发模块-音视频部分之FFMPEG**
@@ -101,7 +107,10 @@
 
 > 老牌图像API OpenGL
 
+- **菜鸟窝资深工程师之音视频、图像处理技术**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-使用OpenGl进行人脸美化实战**
+- **菜鸟窝资深工程师之相机开发进阶**
+
 
 > 新生代图像API vulkan
 
@@ -112,6 +121,7 @@
 
 > OpenCV
 
+- **菜鸟窝资深工程师之计算机视觉库OpenCv**
 - **[超详细的OpenCV入门教程](http://c.biancheng.net/opencv/)**
 
 
