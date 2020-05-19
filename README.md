@@ -13,6 +13,7 @@
 > [C基础](https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/notes/C%E6%A0%B8%E5%BF%83%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 - **《C程序设计语言》**
+
 - **菜鸟窝资深工程师之BAT最常用的C技术**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C 基础篇**
 - **动脑学院高级Android之NDK开发模块-C 部分**
@@ -93,7 +94,7 @@
 
 - **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
 
-> 全面掌握音视频处理技术FFMPEG
+> 全面掌握音视频处理技术 FFMPEG
 
 - **菜鸟窝资深工程师之音视频、图像处理技术**
 - **菜鸟窝资深工程师之开源库FFMPEG学习**
@@ -103,7 +104,7 @@
 
 - **《Android音视频开发》**
 
-> 全面掌握直播处理技术WebRTC
+> 全面掌握直播处理技术 WebRTC
 
 - **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
 - **动脑学院高级Android之NDK开发模块-音视频部分之WebRTC**
@@ -113,14 +114,14 @@
 
 ### 六、图像处理技术
 
-> 老牌图像API OpenGL
+> 老牌图像库 OpenGL
 
 - **菜鸟窝资深工程师之音视频、图像处理技术**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-使用OpenGl进行人脸美化实战**
 - **菜鸟窝资深工程师之相机开发进阶**
 
 
-> 新生代图像API vulkan
+> 新生代图像库 vulkan
 
 - **[awesome-vulkan](https://github.com/vinjn/awesome-vulkan)**
 
