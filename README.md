@@ -16,12 +16,12 @@
 
 - **菜鸟窝资深工程师之BAT最常用的C技术**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C 基础篇**
-- **动脑学院高级Android之NDK开发模块-C 部分**
+- 动脑学院高级Android之NDK开发模块-C 部分
 
 > C进阶
 
-- **《C陷阱与缺陷》**
-- **《C专家编程》**
+- 《C陷阱与缺陷》
+- 《C专家编程》
 
 
 ### 二、C++（进行中~）
@@ -32,7 +32,7 @@
 
 - **菜鸟窝资深工程师之BAT最常用的C++技术**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-C++基础篇**
-- **动脑学院高级Android之NDK开发模块-C++部分**
+- 动脑学院高级Android之NDK开发模块-C++部分
 
 > C++进阶
 
@@ -50,22 +50,22 @@
 
 - **《Android进阶解密》第九章 JNI原理(已完成，待记录）**
 - **菜鸟窝资深工程师之BAT最常用的JNI基础实战**
-- **动脑学院高级Android之NDK开发模块-JNI部分**
+- 动脑学院高级Android之NDK开发模块-JNI部分
 
-- **《Android C++ 高级编程——使用NDK》**
+- 《Android C++ 高级编程——使用NDK》
 
 
 > 编译原理与语法
 
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-编译原理与语法详解**
 
-- **《Android C++ 高级编程——使用NDK》**
+- 《Android C++ 高级编程——使用NDK》
 
 > Linux基础
 
 - **菜鸟窝资深工程师之Linux编程实战**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-Linux基础部分**
-- **动脑学院高级Android之NDK开发模块-Linux基础部分**
+- 动脑学院高级Android之NDK开发模块-Linux基础部分
 
 
 ### 四、顶级公司核心技术全解密
@@ -97,17 +97,17 @@
 > 全面掌握音视频处理技术 FFMPEG
 
 - **菜鸟窝资深工程师之音视频、图像处理技术**
-- **菜鸟窝资深工程师之开源库FFMPEG学习**
+- **菜鸟窝资深工程师之开源库 FFMPEG 学习**
 - **[慕课网之FFmpeg音视频核心技术精讲与实战](https://coding.imooc.com/learn/list/279.html)（已完成，待记录）**
 - **网易工程师带你突破Android技术瓶颈之NDK开发模块-网易视频云剖析**
-- **动脑学院高级Android之NDK开发模块-音视频部分之FFMPEG**
+- 动脑学院高级Android之NDK开发模块-音视频部分之FFMPEG
 
 - **《Android音视频开发》**
 
 > 全面掌握直播处理技术 WebRTC
 
 - **[慕课网之音视频WebRTC实时互动直播技术入门与实战](https://coding.imooc.com/learn/list/329.html)**
-- **动脑学院高级Android之NDK开发模块-音视频部分之WebRTC**
+- 动脑学院高级Android之NDK开发模块-音视频部分之WebRTC
 
 - **《Android音视频开发》**
 
