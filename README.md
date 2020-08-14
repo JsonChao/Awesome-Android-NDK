@@ -90,7 +90,7 @@
 - **NDK高效实现gif图播放**
 
 
-### 五、Android音视频
+### 五、Android音视频(进行中~）
 
 > 音视频基础
 
@@ -114,7 +114,7 @@
 - **《Android音视频开发》**
 
 
-### 六、图像处理技术
+### 六、图像处理技术(进行中~）
 
 > 老牌图像库 OpenGL
 
@@ -128,7 +128,7 @@
 - **[awesome-vulkan](https://github.com/vinjn/awesome-vulkan)**
 
 
-### 七、计算机视觉处理技术
+### 七、计算机视觉处理技术(进行中~）
 
 > OpenCV
 
