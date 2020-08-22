@@ -89,9 +89,19 @@
 - **极客时间之Android开发高手课《Native Hook技术 》**
 
 
-> Gif图实现
+> Gif 图实现
 
 - **NDK高效实现gif图播放**
+
+
+> MMKV 实现
+
+- **腾讯开源组件MMKV的原理与实现**
+
+
+> 增量更新实现
+
+- **Android增量更新**
 
 
 ### 五、Android音视频
