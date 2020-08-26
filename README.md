@@ -106,7 +106,7 @@
 
 ### 五、Android音视频
 
-> 音视频基础
+> 音视频基础（已完成）
 
 - **[慕课网之Android音视频入门](https://www.imooc.com/learn/959) （已完成，待记录）**
 
