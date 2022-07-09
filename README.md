@@ -149,7 +149,37 @@
 - **菜鸟窝资深工程师之计算机视觉库OpenCv**
 - **[超详细的OpenCV入门教程](http://c.biancheng.net/opencv/)**
 
-## 知识星球（推荐）
+## Contact Me
+
+现如今，Android 行业人才已逐渐饱和化，但高级人才依旧很稀缺，我们经常遇到的情况是，100份简历里只有2、3个比较合适的候选人，大部分的人都是疲于业务，没有花时间来好好学习，或是完全不知道学什么来提高自己的技术。对于 Android 开发者来说，尽早建立起一个完整的 Android 知识框架，了解目前大厂高频出现的常考知识点，掌握面试技巧，是一件非常需要重视的事情。
+
+去年，为了进入一线大厂去做更有挑战的事情，拿到更高的薪资，我提前准备了半年的时间，沉淀了一份 **「两年磨一剑」** 的体系化精品面试题，而后的半年，我都在不断地进行面试，总共面试了二三十家公司，每一场面试完之后，我都将对应的面试题和详细的答案进行了系统化的总结，并更新到了我的面试项目里，现在，在每一个模块之下，我都已经精心整理出了 **超高频和高频的常考** 知识点。
+
+在我近一年的大厂实战面试复盘中逐渐对原本的内容进行了大幅度的优化，并且新增了很多新的内容。它可以说是一线互联网大厂的面试精华总结，同时后续还会包含如何写简历和面试技巧的内容，能够帮你省时省力地准备面试，大大降低找到一个好工作的难度。
+
+这份面试项目不同于我 Github 上的 Awesome-Android-Interview 面试项目：https://github.com/JsonChao/Awesome-Android-Interview，Awesome-Android-Interview 已经在 2 年前（2020年 10 月停止更新），内容稍显陈旧，里面也有不少点表述不严谨，总体含金量较低。而我今天要分享的这份面试题库，是我在这两年持续总结、细化、沉淀出来的体系化精品面试题，里面很多的核心题答案在面试的压力下，经过了反复的校正与升华，含金量极高。
+
+在分享之前，有一点要注意的是，一定不要将资料泄露出去！细想一下就明白了：
+
+1、如果暴露出去，拿到手的人比你更快掌握，更早进入大厂，拿到高薪，你进大厂的机会就会变小，毕竟现在好公司就那么多，一个萝卜一个坑。 
+
+2、两年前我公开分享的简陋版 Awesome-Android-Interview 面试题库现在还在被各个培训机构当做引流资料，加大了现在 Android 内卷。。
+
+所以，这一点一定要切记。
+
+现在，我已经在我的成长社群里修订好了 《体系化高频核心 Android 面试题库》 中的 ”计算机基础高频核心面试题“ 和 ”Java 和 kotlin 高频核心面试题“ 部分，后续还会为你带来我核心题库中的：
+
+- “Android基础 高频核心面试题”
+- “基础架构 高频核心面试题”
+- “跨平台 高频核心面试题”
+- “性能优化 高频核心面试题”
+- ”Framework 高频核心面试题“
+- ”NDK 高频核心面试题“
+
+获取方法：扫描下方的二维码。
+
+![](https://files.mdnice.com/user/2733/a4ce1540-9a3b-4e8c-ae69-3719bb2a75be.png)
+
 
 $\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 
@@ -157,13 +187,7 @@ $\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 
 ### 星球目前有哪些服务？
 
-- 每周会提供一份让 **个人增值，避免踩坑 的硬干货**，下面是最近的分享：
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/interview_good.jpg" width=30%>
-</div>
-
-
+- 每周会提供一份让 **个人增值，避免踩坑 的硬干货**。
 - 每日以文字或语音的形式分享我个人学习和实践中的 **思考精华或复盘记录**。
 - 提供 **每月 三 次成长**、技术或面试指导的咨询服务。
 - 更多服务正在研发中...
@@ -171,7 +195,7 @@ $\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 ### 超哥的知识星球适合谁？
 
 - **如果你希望持续提升自己，获得更高的薪资或是想加入大厂**，那么超哥的知识星球会对你有很大的帮助。
-- **如果你既努力，又焦虑**，特别适合加入超哥的知识星球，因为我经历过统一的阶段，而且最后找到了走出焦虑，靠近梦想的地方。
+- **如果你既努力，又焦虑**，特别适合加入超哥的知识星球，因为我经历过同样的阶段，而且最后找到了走出焦虑，靠近梦想的地方。
 - **如果你希望改变自己的生活状态**，欢迎加入超哥的知识星球，和我一起每日迭代，持续精进。
 
 ### 星球如何定价？
@@ -180,12 +204,9 @@ $\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 
 每天一元，给自己的成长持续加油💪
 
-为了回馈 JsonChao Github 的忠实用户，我申请了少量优惠券，先到者先得，错过再无
+为了回馈 JsonChao 的 Github 忠实用户，我申请了少量优惠券，先到者先得，错过再无
 
-<div align="center">
-<img src="https://mmbiz.qpic.cn/mmbiz_png/PjzmrzN77aAPxe8aibFBdkiaY9ldh9uQVxw0WFJ9TicCRlhZIFibIb2ex74hWel3DpkS46aX5vFlwuZXKTNMb2ZnHg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1" width=30%>
-</div>
-
+![](https://files.mdnice.com/user/2733/0ad7d2c5-464b-4e72-9f77-3a043f331e09.png)
 
 
 ## 公众号
@@ -196,44 +217,6 @@ $\color{#FF0000}{出身普通的人，如何真正改变命运？}$
 <img src="https://s4.ax1x.com/2022/01/16/7tk7JP.jpg" width=30%>
 </div>
 
-
-## 赞赏
-
-如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，让我喝一杯咖啡或啤酒。非常感谢您的捐赠。谢谢！
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/wexin_play.jpg" width=20%><img src="https://raw.githubusercontent.com/JsonChao/Awesome-Android-Interview/master/screenshot/Apaliy.jpg" width=20%>
-</div>
-
-
-----
-
-## Contanct Me
-
-###  ●  微信：
-
-> 欢迎关注我的微信：`bcce5360`  
-
-###  ●  微信群：
-
-> **微信群如果不能扫码加入，麻烦大家想进微信群的朋友们，加我微信拉你进群。**
-
-<div align="center">
-<img src="https://github.com/JsonChao/Awesome-Android-Performance/blob/master/screenshots/Awesome-Android.png" width=35%>
-</div>
-        
-
-###  ●  QQ群：
-
-> 2千人QQ群，**Awesome-Android学习交流群，QQ群号：959936182**， 欢迎大家加入~
-
-
-### About me
-
-- #### Email: [chao.qu521@gmail.com]()
-- #### Blog: [https://jsonchao.github.io/](https://jsonchao.github.io/)
-- #### 掘金: [https://juejin.im/user/5a3ba9375188252bca050ade](https://juejin.im/user/5a3ba9375188252bca050ade)
-    
 ### License
 
 Copyright 2019 JsonChao
